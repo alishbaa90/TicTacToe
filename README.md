@@ -1,4 +1,4 @@
-#TicTacToe
+# TicTacToe
 A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This game allows two players to compete against each other in the classic 3x3 grid.
 
 ## Features
